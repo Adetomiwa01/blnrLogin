@@ -5,11 +5,16 @@
     background-color: #111111;
 }
 .itop {
-    height: 600px;
+    height: 1000px;
     background-color:#111111;
     margin: -30px;
     padding-top: 520px;
+    padding-left: 20px;
 
+}
+a {
+  color: #111111;
+  text-decoration: none;
 }
 a {
     color: #111111;
@@ -27,6 +32,7 @@ a {
     background-color:#111111;
     margin: -30px;
     padding-top: 60px;
+
 }
 
 
@@ -213,6 +219,12 @@ a {
     .itopCreate h2 ,p {
       padding-left: 360px ;
     }
+    .text > h4 {
+      width: 500px;
+    }
+    .form3  button {
+      margin-top: -10px;
+    }
  
 
 }
@@ -233,4 +245,8 @@ a {
     .itopCreate h2, p {
       padding-left: 460px ;
     }
+    .form3  button {
+      margin-top: -10px;
+    }
+   
 }
