@@ -200,20 +200,37 @@ a {
     .itop {
         padding-left: 200px;
         width: auto;
+        padding-top: 200px;
     }
     .text {
         margin-left: 0px;
         width: 460px;
     }
+    .itopUsername {
+      padding-right: 300px;
+      padding-left: 350px;
+  }
+    .itopCreate h2 ,p {
+      padding-left: 360px ;
+    }
+ 
 
 }
 
 @media screen and (min-width: 1024px) {
     .itop {
         padding-left: 480px;
+        padding-top: 200px;
     }
     .text {
         margin-left: 0px;
         width: 460px;
+    }
+    .itopUsername {
+      padding-right: 450px;
+      padding-left: 450px;
+    }
+    .itopCreate h2, p {
+      padding-left: 460px ;
     }
 }
